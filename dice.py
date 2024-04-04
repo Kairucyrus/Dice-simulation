@@ -1,6 +1,6 @@
 """
 Kairu Cyrus
-SCT211-0024/2021
+
 """
 import random
 from tabulate import tabulate
